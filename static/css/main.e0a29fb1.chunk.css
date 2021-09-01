@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.App{margin:20px}ul{list-style:none}.task{margin-top:10px}.todo-list{display:grid;grid-template-columns:repeat(4,1fr);grid-gap:10px;font-family:"Gill Sans",sans-serif}.todo-list__element{padding:10px;border-radius:10px}.todo-list__element:hover{box-shadow:0 3px 10px 2px rgba(34,60,80,.5)}.todo-list__element--true{background-color:#8fbc8f}.todo-list__element--false{background-color:#e9967a}
+/*# sourceMappingURL=main.e0a29fb1.chunk.css.map */
